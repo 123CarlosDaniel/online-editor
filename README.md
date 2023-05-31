@@ -12,7 +12,7 @@ React-Ts, Node.Js, Express, MongoDB and Socket.io.
 
 ## Quick Setup
 MongoDB and Node.js are needed for this project.    
-MongoDB needs to run in port 27017 or you can config environment variables in server/.env file.
+MongoDB needs to run in port 27017 or you can configure environment variables in server/.env file.
 
 * Clone repository with git clone.
 * Run `npm install` in client and server folder.
